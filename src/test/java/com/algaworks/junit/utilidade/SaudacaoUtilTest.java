@@ -1,5 +1,4 @@
 package com.algaworks.junit.utilidade;
-
 import org.junit.jupiter.api.Test;
 
 import static com.algaworks.junit.utilidade.SaudacaoUtil.saudar;
@@ -53,4 +52,5 @@ class SaudacaoUtilTest {
     public void naoDeveLancarException() {
         assertDoesNotThrow(()-> saudar(0));
     }
+
 }
