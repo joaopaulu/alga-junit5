@@ -40,3 +40,15 @@
 2.12. Desafio - Escrevendo testes faltantes do SaudacaoUtil
 2.13. Refatorando classe SaudacaoUtil
 2.14. Desafio - Implementando conta bancária com testes unitários
+
+### 3. Organizando os testes unitários
+
+3.1. Organizando testes com o padrão Tripe A
+3.2. Alterando nome de exibição dos testes com @DisplayName
+3.3. Formatando nomes de testes com @DisplayNameGeneration
+3.4. Aplicando a nomenclatura do BDD para nomear métodos de teste
+3.5. Organizando classe de testes com sub-classes e @Nested
+3.6. Preparando o cenário de testes com @BeforeEach e @BeforeAll
+3.7. Um teste deve ter uma única asserção?
+3.8. Combinando @Nested e @BeforeEach com a nomenclatura do BDD
+3.9. Desafio - Implemente a lógica e testes de um carrinho de compras
