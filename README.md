@@ -52,3 +52,23 @@
 3.7. Um teste deve ter uma única asserção?
 3.8. Combinando @Nested e @BeforeEach com a nomenclatura do BDD
 3.9. Desafio - Implemente a lógica e testes de um carrinho de compras
+
+### 4. Stub, Mock e Spy
+
+4.1. Implementações falsas com Stub
+4.2. Introdução ao Mock
+4.3. Simulando classes com Mockito
+4.4. Mock usando annotations
+4.5. Alterando estado dos parâmetros passados no mock
+4.6. Parâmetros dinâmicos
+4.7. Verificando chamada de métodos com mock usando Mockito verify
+4.8. Forçando uma Exception com mock
+4.9. Capturando parâmetros enviados aos mocks com Argument Captor
+4.10. Espionando um objeto real com Mockito
+4.11. Alterando retorno de um mock após chamadas consecutivas
+4.12. Verificando ordem de chamada de métodos
+4.13. Usando mock em métodos estáticos
+4.14. Entendendo problema de mocks não utilizados
+4.15. Implementando testes no CadastroEditor no método de edição
+4.16. Desafio - Criar testes do CadastroPost
+
