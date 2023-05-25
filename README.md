@@ -83,3 +83,19 @@
 6.1. Testes parametrizados
 6.2. Carregados dados de um CSV em um método de teste
 6.3. Carregando valos de um Enum
+
+### 7. Análise e cobertura de teste
+
+7.1. Introdução a análise de cobertura de testes
+7.2. Descobrindo cenário de testes não cobertos com ajuda da IntelliJ
+7.3. Lacunas da análise de cobertura automática
+7.4. Implementando o JaCoCo - Java Code Coverage Library
+
+### 8. Asserções fluentes com AssertJ
+
+8.1. Introdução ao AssertJ?
+8.2. Asserções básicas
+8.3. Asserções de Exceptions
+8.4. Asserções com mensagens descritivas
+8.5. Asserções customizadas
+8.6. Múltiplas asserções em listas
