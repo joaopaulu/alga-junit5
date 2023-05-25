@@ -25,7 +25,7 @@ class CadastroEditorComStubTest {
                 armazenamentoEditor,
                 new GerenciadorEnvioEmail() {
                     @Override
-                    void enviarEmail(Mensagem mensagem) {
+                    public void enviarEmail(Mensagem mensagem) {
                         System.out.println("Enviando mensagem para: " + mensagem.getDestinatario());
                     }
                 }
