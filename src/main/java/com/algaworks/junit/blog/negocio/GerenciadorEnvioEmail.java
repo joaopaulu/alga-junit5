@@ -6,7 +6,7 @@ import org.apache.commons.mail.SimpleEmail;
 
 public class GerenciadorEnvioEmail {
 
-    void enviarEmail(Mensagem mensagem) {
+    public void enviarEmail(Mensagem mensagem) {
         try {
             Email email = new SimpleEmail();
             email.setHostName("smtp.gmail.com");
