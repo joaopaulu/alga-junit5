@@ -77,3 +77,9 @@
 5.1. Eliminando repetições de código com o Design Pattern Object Mother
 5.2. Combinando Design Pattern Object Mother com Builder
 5.3. Desafio - Refatorar testes antigos
+
+### 6. Testes Parametrizados
+
+6.1. Testes parametrizados
+6.2. Carregados dados de um CSV em um método de teste
+6.3. Carregando valos de um Enum
