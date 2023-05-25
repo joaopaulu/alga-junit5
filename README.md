@@ -72,3 +72,8 @@
 4.15. Implementando testes no CadastroEditor no método de edição
 4.16. Desafio - Criar testes do CadastroPost
 
+### 5. Trabalhando com dados fictícios
+
+5.1. Eliminando repetições de código com o Design Pattern Object Mother
+5.2. Combinando Design Pattern Object Mother com Builder
+5.3. Desafio - Refatorar testes antigos
